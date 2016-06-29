@@ -1,2 +1,2 @@
-# pitfallChallenge
-Pitfall Challenge for Telos Entertainment
+# Pitfall Challenge for Telos Entertainment
+Repository to reach project.
