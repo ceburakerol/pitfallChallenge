@@ -1,2 +1,4 @@
-# Pitfall Challenge for Telos Entertainment
-Repository to reach project.
+# Telos Unity Development Challenge
+Clone - Pitfall
+
+Burak Erol
